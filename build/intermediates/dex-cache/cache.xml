@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/nathan/programming/oakland/CSI-5230/assignment2_layout/CSE-4230-5230-Bonus-Screen/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/nathan/programming/oakland/CSI-5230/assignment2_layout/CSE-4230-5230-Bonus-Screen/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_608704cb08b3c526307b8221b11171aa6704754e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nathan/.android/build-cache/3683f56b0592da69b46cf64479aec076376f6b72/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/nathan/programming/oakland/CSI-5230/assignment2_layout/CSE-4230-5230-Bonus-Screen/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_178cab81a9b4ba9599880817819662d8c6d4f0b2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nathan/.android/build-cache/14f8de9cde0966f64c09524be2d7f9adb7674fa6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/nathan/programming/oakland/CSI-5230/assignment2_layout/CSE-4230-5230-Bonus-Screen/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6854ee2fed8b281da69a473f7aa6a9e83ddc7bc7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nathan/.android/build-cache/99efbcaec5b7f3d05d3df373ec29d60f0fc89386/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/nathan/programming/oakland/CSI-5230/assignment2_layout/CSE-4230-5230-Bonus-Screen/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e75cb4194c1a1a7a0abb80106f8396ce83259b5f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nathan/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/nathan/programming/oakland/CSI-5230/assignment2_layout/CSE-4230-5230-Bonus-Screen/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_36975f4d04cbef4cf1489bf8abd372ce9dc2616b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nathan/.android/build-cache/7282947ec60b7cf2e5f0ec2c5ee535cb10f44186/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/nathan/programming/oakland/CSI-5230/assignment2_layout/CSE-4230-5230-Bonus-Screen/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_794ee6d66d569031d9ed3d0814073b9e46cc0875/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nathan/.android/build-cache/337d707315935884070e0f09eeb3facfcf1a6741/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/home/nathan/programming/oakland/CSI-5230/assignment2_layout/CSE-4230-5230-Bonus-Screen/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8df04a4697489fff17b313ebd822ace8e9ceaf45/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nathan/.android/build-cache/cb522e02c719dd5de075cb95c8f8bfe8ba12c4c0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/nathan/programming/oakland/CSI-5230/assignment2_layout/CSE-4230-5230-Bonus-Screen/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_283b5b59de1380ae5008fd61bd595071a6ac0783/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nathan/.android/build-cache/e67a4d603a32ddec4f859f57d47e8207557747eb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/nathan/programming/oakland/CSI-5230/assignment2_layout/CSE-4230-5230-Bonus-Screen/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e4ff5da65d9af03389590a8d8d2fffd53c808451/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nathan/.android/build-cache/8a911ad2845afdce2c67e112de2cc8a032b81cbc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/nathan/programming/oakland/CSI-5230/assignment2_layout/CSE-4230-5230-Bonus-Screen/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1fb15b0a5bbcd0eeaf8ead45fcff46c879ad43ac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nathan/programming/oakland/CSI-5230/assignment2_layout/CSE-4230-5230-Bonus-Screen/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9853313ce6900a583c0426f5407bd1ac3a83a9f6">
+        <dex dex="/home/nathan/programming/oakland/CSI-5230/assignment2_layout/CSE-4230-5230-Bonus-Screen/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_242dfd516b8cab4b3fe8fea69216164773f08c17/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nathan/.android/build-cache/826ae00ce475f57a5b758cc7e79a1119fb5e6c29/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/nathan/programming/oakland/CSI-5230/assignment2_layout/CSE-4230-5230-Bonus-Screen/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_506fea2174d216cf713f028d7f3380fdeb07a5fc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nathan/.android/build-cache/131159360159f983ebdff11a1d0e0089d5ac0113/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/nathan/programming/oakland/CSI-5230/assignment2_layout/CSE-4230-5230-Bonus-Screen/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_77fb1edaa68be80c56d60867ec588f4b1ef5d7e5/classes.dex" />
+    </item>
+
+</items>

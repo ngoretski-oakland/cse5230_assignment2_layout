@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/page2_bg">
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_weight="1"
+        android:layout_height="0dp"
+        android:layout_marginTop="250dp">
+
+        <TableRow
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:layout_width="match_parent">
+
+            <ImageButton
+                android:id="@+id/menu_button"
+                android:layout_weight="1"
+                android:background="@android:color/transparent"
+                android:scaleType="fitCenter"
+                app:srcCompat="@drawable/page2_menubutton" />
+            <ImageButton
+                android:id="@+id/news_button"
+                app:srcCompat="@drawable/page2_newbutton"
+                android:background="@android:color/transparent"
+                android:scaleType="fitCenter"
+                android:layout_weight="1"/>
+            <ImageButton
+                android:id="@+id/movie_button"
+                app:srcCompat="@drawable/page2_moviebutton"
+                android:background="@android:color/transparent"
+                android:scaleType="fitCenter"
+                android:layout_weight="1"/>
+        </TableRow>
+        <TableRow
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:layout_width="match_parent">
+            <ImageButton
+                android:id="@+id/feedback_button"
+                app:srcCompat="@drawable/page2_feedbackbutton"
+                android:background="@android:color/transparent"
+                android:scaleType="fitCenter"
+                android:layout_weight="1"/>
+            <ImageButton
+                android:id="@+id/booking_button"
+                app:srcCompat="@drawable/page2_bookingbutton"
+                android:background="@android:color/transparent"
+                android:scaleType="fitCenter"
+                android:layout_weight="1"/>
+            <ImageButton
+                android:id="@+id/contact_button"
+                app:srcCompat="@drawable/page2_contactbutton"
+                android:background="@android:color/transparent"
+                android:scaleType="fitCenter"
+                android:layout_weight="1"/>
+        </TableRow>
+    </TableLayout>
+
+
+</TableLayout>
