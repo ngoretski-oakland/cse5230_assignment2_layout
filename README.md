@@ -2,9 +2,9 @@
 * Screen1/MainLayout : Just a framelayout.  After a second loads to Screen 2.
 * Screen2 : Table layout.
   * Menu button : goes to Screen 3
-  * News button : 
-  * Feedback button : 
-  * Booking button :
+  * News button : goes to Screen 7
+  * Feedback button : goes to Screen 11
+  * Booking button : goes to Screen 10
 * Screen 3 : Grid layout.
   * Salad button : goes to Screen 4
 * Screen 4 : Constraint layout.
@@ -17,3 +17,4 @@
 * Screen 8 : The screen provided by TA
 * Screen 9 : Totally missed this screen until I was typing this up :/
 * Screen 10 : Scroll view + table layout + relative layout
+* Screen 11 : Grid layout

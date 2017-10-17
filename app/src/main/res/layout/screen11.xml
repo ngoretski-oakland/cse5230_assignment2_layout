@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/page11_bg"
+    android:columnCount="2"
+    android:rowCount="3">
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_columnWeight="1"
+        android:text="Your Name"
+        android:textColor="@color/white"
+        android:textAlignment="textEnd"
+        android:layout_marginBottom="8dp"
+        android:layout_marginRight="8dp"/>
+
+    <EditText
+        android:id="@+id/editText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_columnWeight="1"
+        android:background="@color/white"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:layout_marginBottom="8dp"
+        android:layout_marginRight="8dp"/>
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_columnWeight="1"
+        android:text="Email"
+        android:textColor="@color/white"
+        android:textAlignment="textEnd"
+        android:layout_marginBottom="8dp"
+        android:layout_marginRight="8dp"/>
+
+    <EditText
+        android:id="@+id/editText2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_columnWeight="1"
+        android:background="@color/white"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:layout_marginBottom="8dp"
+        android:layout_marginRight="8dp"/>
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_columnWeight="1"
+        android:text="Message"
+        android:textColor="@color/white"
+        android:textAlignment="textEnd"
+        android:layout_marginBottom="8dp"
+        android:layout_marginRight="8dp"/>
+
+    <EditText
+        android:id="@+id/editText3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:layout_columnWeight="1"
+        android:inputType="textMultiLine"
+        android:lines="10"
+        android:background="@color/white"
+        android:layout_marginBottom="8dp"
+        android:layout_marginRight="8dp"/>
+</GridLayout>
