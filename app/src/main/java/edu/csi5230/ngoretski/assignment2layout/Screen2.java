@@ -53,10 +53,19 @@ public class Screen2 extends AppCompatActivity {
             }
         });
 
-        contactButton.setOnClickListener(new View.OnClickListener() {
+        feedbackButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
                 Intent i = new Intent("edu.csi5230.ngoretski.SCREEN_11");
+                i.setFlags(Intent.FLAG_ACTIVITY_REORDER_TO_FRONT);
+                startActivity(i);
+            }
+        });
+
+        contactButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent i = new Intent("edu.csi5230.ngoretski.SCREEN_12");
                 i.setFlags(Intent.FLAG_ACTIVITY_REORDER_TO_FRONT);
                 startActivity(i);
             }

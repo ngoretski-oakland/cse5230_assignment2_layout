@@ -3,21 +3,21 @@
 
     <item
         is-multidex="true"
+        jar="/home/nathan/programming/oakland/CSI-5230/assignment2_layout/cse5230_assignment2_layout/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="96ed8e1726f1d12dbc13075997e1d96e7e97d943">
+        <dex dex="/home/nathan/programming/oakland/CSI-5230/assignment2_layout/cse5230_assignment2_layout/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_64ecdb908899e2e7e4be2e77cbc325b0905811d0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/home/nathan/programming/oakland/CSI-5230/assignment2_layout/cse5230_assignment2_layout/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="26.0.1"
         sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
         <dex dex="/home/nathan/programming/oakland/CSI-5230/assignment2_layout/cse5230_assignment2_layout/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_9e014b6c2e6fb32bdd5fd1c6adeebc110e5ba14e/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/nathan/programming/oakland/CSI-5230/assignment2_layout/cse5230_assignment2_layout/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.1"
-        sha1="0f9b984edfd5978561144224e1ce6bc1de9afd7f">
-        <dex dex="/home/nathan/programming/oakland/CSI-5230/assignment2_layout/cse5230_assignment2_layout/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_64ecdb908899e2e7e4be2e77cbc325b0905811d0/classes.dex" />
     </item>
 
 </items>

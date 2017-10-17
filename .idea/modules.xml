@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/BonusScreen.iml" filepath="$PROJECT_DIR$/BonusScreen.iml" />
-      <module fileurl="file://$PROJECT_DIR$/CSE-4230-5230-Bonus-Screen.iml" filepath="$PROJECT_DIR$/CSE-4230-5230-Bonus-Screen.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/cse5230_assignment2_layout.iml" filepath="$PROJECT_DIR$/cse5230_assignment2_layout.iml" />
     </modules>

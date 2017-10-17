@@ -4,6 +4,8 @@ import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
+import android.view.View;
+import android.widget.ImageView;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -40,6 +42,13 @@ public class Screen8 extends AppCompatActivity {
         wineListAdapter= new WineListAdapter(this, wineList);
         recyclerView.setAdapter(wineListAdapter);
         recyclerView.setLayoutManager(new LinearLayoutManager(this));
+
+        ((ImageView) findViewById(R.id.imageView)).setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                finish();
+            }
+        });
 
     }
 }
